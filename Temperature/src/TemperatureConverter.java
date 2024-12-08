@@ -9,6 +9,7 @@ public class TemperatureConverter {
         // Infinite loop to repeatedly show the menu until the user exits
         while (true) {
 
+            
             // Display the conversion options menu
             System.out.println("    CHOOSE YOUR CONVERSION OPTION (1 / 2)    ");
             System.out.println("---------------------------------------------");
