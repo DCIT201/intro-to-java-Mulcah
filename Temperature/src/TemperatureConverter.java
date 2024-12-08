@@ -83,6 +83,7 @@ public class TemperatureConverter {
                                 float C = (F - 32) * 5 / 9f;
                                 System.out.printf("Your Celsius value is %.2f°C.\n", C);
                             }
+
                         } else {
                             // Handle invalid input for temperature
                             System.out.println("Invalid input! Please enter a valid number.");
