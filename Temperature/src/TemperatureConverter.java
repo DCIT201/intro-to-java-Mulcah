@@ -14,7 +14,7 @@ public class TemperatureConverter {
             System.out.println("---------------------------------------------");
             System.out.println("|       1. Celsius to Fahrenheit            |");
             System.out.println("|       2. Fahrenheit to Celsius            |");
-            System.out.println("|       0. Exit                             |");
+            System.out.println("       0. Exi                           |");
             System.out.println("---------------------------------------------");
 
             // Check if the user entered an integer
