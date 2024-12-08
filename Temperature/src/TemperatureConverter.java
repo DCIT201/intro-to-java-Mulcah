@@ -53,6 +53,7 @@ public class TemperatureConverter {
                                 float F = (C * 9 / 5) + 32f;
                                 System.out.printf("Your Fahrenheit value is %.2f°F.\n", F);
                             }
+
                         } else {
                             // Handle invalid input for temperature
                             System.out.println("Invalid input! Please enter a valid number.");
