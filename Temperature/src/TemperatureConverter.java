@@ -109,6 +109,7 @@ public class TemperatureConverter {
         }
 
         // Close the Scanner to release resources
+
         input.close();
     }
 }
